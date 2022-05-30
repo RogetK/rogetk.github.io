@@ -21,9 +21,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Roget's page  # the main title
+title: Roget's thoughts # the main title
 
-tagline: This is where my thoughts go # it will display as the sub-title
+tagline: Thoughts go here # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   This is where my thoughts go
