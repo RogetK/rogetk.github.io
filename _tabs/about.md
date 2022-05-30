@@ -12,13 +12,23 @@ order: 4
 Hi, my name is Roget, I'm a currently software engineer with experience in 
 wireless communications research and embedded systems in both academic and 
 industrial environments. I'm currently a software engineer at Active Silicon
-working with embedded linux for computer vision hardware!
+working with embedded linux for computer vision hardware.
+
+## Education and Work
+- Studied Computer Science and Electronics at the University of Bristol where
+    I graduated with an upper second class degree (2:1). With thesis on 
+    porting Ultra-wideband radios to TSCH for concurrent transmissions on UWB.
+
+- Formerly a Research Engineer at Toshiba Research Europe, where I focued
+    on UWB technologies, low latency control, wireless protocols and 
+    embedded systems.
+
 
 ## Hobbies!
 
 ### Table Tennis!
 I love playing table tennis and have been playing for almost 15 years, 
-playing at various levels of competition in the UK! 
+playing at various levels of competition in the UK.
 
 ### Coffee
 Coffee is essential to be converted to code! I really enjoy specialty coffees, 
@@ -31,14 +41,6 @@ if you are ever in the city!
 ### Electronics
 I have a wide interest in hobby electronics and programming, I've been building 
 various mechanical keyboards since 2019. I also have built a homelab with 
-various servers running home services, hypvervisors and more!
+various servers running home services, hypvervisors and more.
 
 
-## Education and Work
-I studied Computer Science and Electronics at the University of Bristol where
-I graduated with an upper second class degree (2:1). During this time I studied
-wireless communications and protocols extensively during my latter years and
-during this time I spent over a year at Toshiba Research Europe conducting 
-research around this area and doing development work on various 
-mico-controllers and systems. I then started a PhD on wireless technologies in 
-late 2020 but have since suspended my research to explore new opportunities.
