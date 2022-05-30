@@ -32,3 +32,13 @@ if you are ever in the city!
 I have a wide interest in hobby electronics and programming, I've been building 
 various mechanical keyboards since 2019. I also have built a homelab with 
 various servers running home services, hypvervisors and more!
+
+
+## Education and Work
+I studied Computer Science and Electronics at the University of Bristol where
+I graduated with an upper second class degree (2:1). During this time I studied
+wireless communications and protocols extensively during my latter years and
+during this time I spent over a year at Toshiba Research Europe conducting 
+research around this area and doing development work on various 
+mico-controllers and systems. I then started a PhD on wireless technologies in 
+late 2020 but have since suspended my research to explore new opportunities.
